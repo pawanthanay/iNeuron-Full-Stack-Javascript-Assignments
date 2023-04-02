@@ -10,6 +10,7 @@
 | 06    |                                                       [ JS_04PasswordGenerator](https://js4passwordgenerator.netlify.app)                         | https://github.com/pawanthanay/JS_04PasswordGenerator |
 | 07    |                                                 [ JS_Todo](https://ineurontodo.netlify.app)                     | https://github.com/pawanthanay/JS_Todo |
 | 08    |                                                    [ JS_06JokesGenerator](https://js6jokesgenerator.netlify.app)                   | https://github.com/pawanthanay/JS_06JokesGenerator |
+| 09    |                                                    [JS_QuizApp](ineuronquiz.netlify.app)                   | https://github.com/pawanthanay/JS_QuizApp |
 
 
 
